@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:s3s7/tokutabi_log_front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:s3s7/tokutabi_log_back.git
